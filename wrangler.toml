@@ -1,0 +1,9 @@
+name = "acoes-ci-d1-lab"
+pages_build_output_dir = "public"
+compatibility_date = "2026-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "notas-db"
+database_id = "917f0826-3d02-4ce1-a64a-3d2b522c9017"
+migrations_dir = "migrations"
